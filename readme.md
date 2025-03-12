@@ -1,4 +1,4 @@
 # Larry Plotter
 Esta saga de libros cuentan la historia de un hacker excepcional.
 
-**Kevin Romero**, git fan
+**Kevin Romero**, git & Larry Plotter fan
